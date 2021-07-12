@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'HelloAngular';
+  name = 'shashank kulkarni'
+  ary=['red','blue','orange','black']
+  obj={name:"shashank",class:"mca",city:"khandwa"}
 }
